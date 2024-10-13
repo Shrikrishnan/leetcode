@@ -37,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrikrishnan/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shrikrishnan/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
