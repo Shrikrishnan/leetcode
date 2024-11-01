@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shrikrishnan/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shrikrishnan/leetcode/tree/master/0009-palindrome-number) |
+| [2383-add-two-integers](https://github.com/Shrikrishnan/leetcode/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
