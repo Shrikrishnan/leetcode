@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shrikrishnan/leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Shrikrishnan/lee-code/tree/master/0014-longest-common-prefix) |
+| [0812-rotate-string](https://github.com/Shrikrishnan/leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shrikrishnan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
@@ -76,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shrikrishnan/leetcode/tree/master/0010-regular-expression-matching) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Shrikrishnan/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
