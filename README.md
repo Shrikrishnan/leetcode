@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrikrishnan/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Shrikrishnan/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Shrikrishnan/leetcode/tree/master/0812-rotate-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Shrikrishnan/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
