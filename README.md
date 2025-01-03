@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrikrishnan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shrikrishnan/lee-code/tree/master/0088-merge-sorted-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2358-number-of-ways-to-split-array](https://github.com/Shrikrishnan/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shrikrishnan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
@@ -93,5 +94,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shrikrishnan/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Shrikrishnan/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shrikrishnan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
