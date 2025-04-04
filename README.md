@@ -57,18 +57,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrikrishnan/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Shrikrishnan/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrikrishnan/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0407-trapping-rain-water-ii](https://github.com/Shrikrishnan/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shrikrishnan/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Shrikrishnan/leetcode/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrikrishnan/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Database
 |  |
 | ------- |
@@ -93,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shrikrishnan/leetcode/tree/master/0013-roman-to-integer) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shrikrishnan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Shrikrishnan/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -120,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Shrikrishnan/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Prefix Sum
 |  |
