@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shrikrishnan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Shrikrishnan/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shrikrishnan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shrikrishnan/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/Shrikrishnan/leetcode/tree/master/2383-add-two-integers) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Shrikrishnan/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shrikrishnan/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String Matching
 |  |
 | ------- |
