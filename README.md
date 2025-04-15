@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shrikrishnan/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2145-grid-game](https://github.com/Shrikrishnan/leetcode/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shrikrishnan/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shrikrishnan/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Shrikrishnan/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shrikrishnan/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -199,4 +200,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/Shrikrishnan/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shrikrishnan/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Shrikrishnan/leetcode/tree/master/2998-count-symmetric-integers) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
