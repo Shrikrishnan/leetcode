@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Shrikrishnan/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Shrikrishnan/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shrikrishnan/lee-code/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Shrikrishnan/leetcode/tree/master/0038-count-and-say) |
 | [0812-rotate-string](https://github.com/Shrikrishnan/leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shrikrishnan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/1524-string-matching-in-an-array) |
