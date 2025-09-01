@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/Shrikrishnan/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shrikrishnan/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/Shrikrishnan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shrikrishnan/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2145-grid-game](https://github.com/Shrikrishnan/leetcode/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shrikrishnan/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Shrikrishnan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2509-minimize-xor](https://github.com/Shrikrishnan/leetcode/tree/master/2509-minimize-xor) |
 ## Brainteaser
 |  |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Shrikrishnan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shrikrishnan/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1917-maximum-average-pass-ratio](https://github.com/Shrikrishnan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Matrix
 |  |
 | ------- |
