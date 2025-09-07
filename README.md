@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Shrikrishnan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Shrikrishnan/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrikrishnan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shrikrishnan/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Shrikrishnan/leetcode/tree/master/1656-count-good-triplets) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Shrikrishnan/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shrikrishnan/leetcode/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/Shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrikrishnan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shrikrishnan/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/Shrikrishnan/leetcode/tree/master/2383-add-two-integers) |
 | [2998-count-symmetric-integers](https://github.com/Shrikrishnan/leetcode/tree/master/2998-count-symmetric-integers) |
