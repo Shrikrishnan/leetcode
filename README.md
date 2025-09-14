@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Shrikrishnan/lee-code/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Shrikrishnan/leetcode/tree/master/0038-count-and-say) |
 | [0812-rotate-string](https://github.com/Shrikrishnan/leetcode/tree/master/0812-rotate-string) |
+| [1006-vowel-spellchecker](https://github.com/Shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shrikrishnan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shrikrishnan/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Shrikrishnan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Shrikrishnan/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1006-vowel-spellchecker](https://github.com/Shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrikrishnan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shrikrishnan/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shrikrishnan/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Shrikrishnan/leetcode/tree/master/0037-sudoku-solver) |
+| [1006-vowel-spellchecker](https://github.com/Shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shrikrishnan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
