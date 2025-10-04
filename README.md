@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shrikrishnan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Shrikrishnan/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Shrikrishnan/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3336-water-bottles-ii) |
 ## Game Theory
 |  |
 | ------- |
