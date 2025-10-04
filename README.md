@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shrikrishnan/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrikrishnan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Shrikrishnan/leetcode/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/Shrikrishnan/lee-code/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shrikrishnan/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrikrishnan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shrikrishnan/lee-code/tree/master/0088-merge-sorted-array) |
 ## Sorting
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shrikrishnan/leetcode/tree/master/0011-container-with-most-water) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shrikrishnan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Shrikrishnan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2509-minimize-xor](https://github.com/Shrikrishnan/leetcode/tree/master/2509-minimize-xor) |
