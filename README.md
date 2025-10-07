@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrikrishnan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shrikrishnan/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shrikrishnan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1656-count-good-triplets](https://github.com/Shrikrishnan/leetcode/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shrikrishnan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Shrikrishnan/leetcode/tree/master/0037-sudoku-solver) |
 | [1006-vowel-spellchecker](https://github.com/Shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shrikrishnan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shrikrishnan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shrikrishnan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrikrishnan/leetcode/tree/master/0011-container-with-most-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shrikrishnan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shrikrishnan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Shrikrishnan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2509-minimize-xor](https://github.com/Shrikrishnan/leetcode/tree/master/2509-minimize-xor) |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Shrikrishnan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Shrikrishnan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shrikrishnan/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shrikrishnan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Shrikrishnan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/Shrikrishnan/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Matrix
@@ -276,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Shrikrishnan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shrikrishnan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
