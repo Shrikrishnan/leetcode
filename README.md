@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shrikrishnan/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Shrikrishnan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/Shrikrishnan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/Shrikrishnan/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shrikrishnan/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -77,11 +78,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Shrikrishnan/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrikrishnan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shrikrishnan/lee-code/tree/master/0088-merge-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Shrikrishnan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shrikrishnan/lee-code/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Shrikrishnan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shrikrishnan/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrikrishnan/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/Shrikrishnan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Shrikrishnan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Shrikrishnan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
