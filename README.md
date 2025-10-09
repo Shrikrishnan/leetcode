@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shrikrishnan/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Shrikrishnan/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shrikrishnan/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shrikrishnan/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Shrikrishnan/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Shrikrishnan/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shrikrishnan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shrikrishnan/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shrikrishnan/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
 |  |
 | ------- |
