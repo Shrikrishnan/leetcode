@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shrikrishnan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Shrikrishnan/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shrikrishnan/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Shrikrishnan/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shrikrishnan/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrikrishnan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shrikrishnan/lee-code/tree/master/0088-merge-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shrikrishnan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrikrishnan/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shrikrishnan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shrikrishnan/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Tree
 |  |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/Shrikrishnan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shrikrishnan/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Shrikrishnan/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shrikrishnan/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
@@ -180,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/Shrikrishnan/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String Matching
 |  |
 | ------- |
@@ -290,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/Shrikrishnan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shrikrishnan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
 | ------- |
