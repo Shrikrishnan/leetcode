@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Shrikrishnan/leetcode/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shrikrishnan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shrikrishnan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shrikrishnan/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Shrikrishnan/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Shrikrishnan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1006-vowel-spellchecker](https://github.com/Shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shrikrishnan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrikrishnan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shrikrishnan/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Shrikrishnan/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shrikrishnan/lee-code/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shrikrishnan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shrikrishnan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shrikrishnan/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrikrishnan/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Shrikrishnan/leetcode/tree/master/0037-sudoku-solver) |
 | [1006-vowel-spellchecker](https://github.com/Shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shrikrishnan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Shrikrishnan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shrikrishnan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
