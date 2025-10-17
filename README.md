@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/Shrikrishnan/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shrikrishnan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shrikrishnan/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Shrikrishnan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Shrikrishnan/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/Shrikrishnan/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shrikrishnan/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shrikrishnan/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Shrikrishnan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Shrikrishnan/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Shrikrishnan/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Shrikrishnan/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shrikrishnan/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Shrikrishnan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Shrikrishnan/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -360,5 +363,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Shrikrishnan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Shrikrishnan/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
