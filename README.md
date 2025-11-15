@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Shrikrishnan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Shrikrishnan/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shrikrishnan/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Trie
 |  |
 | ------- |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shrikrishnan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shrikrishnan/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shrikrishnan/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Search
 |  |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shrikrishnan/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shrikrishnan/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Geometry
 |  |
 | ------- |
